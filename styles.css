@@ -162,7 +162,8 @@ body, html {
   .card-container, .card-container2 {
     display: flex;
     justify-content: space-between;
-    
+    margin-top: 10px;
+    margin-bottom: 10px;
    
   }
   
